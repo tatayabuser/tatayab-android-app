@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\amr\\latest Tayayab 1\\tatayab-androidd\\app\\build\\intermediates\\incremental\\mergeDevelopmentDebugResources\\merged.dir\\values-ldrtl-v17\\values-ldrtl-v17.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\amrra\\.gradle\\caches\\transforms-3\\43eb5b8254b363da21d455a95559ca5e\\transformed\\material-1.4.0-beta01\\res\\values-ldrtl-v17\\values-ldrtl-v17.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,191",
+                        "endColumns": "135,140",
+                        "endOffsets": "186,327"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\amrra\\.gradle\\caches\\transforms-3\\b51f84bf6cc24e1e6261f3996aa1cccb\\transformed\\jetified-common-ui-3.0.1\\res\\values-ldrtl-v17\\values-ldrtl-v17.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "56",
+                        "endOffsets": "107"
+                    },
+                    "to": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "332",
+                        "endColumns": "56",
+                        "endOffsets": "384"
+                    }
+                }
+            ]
+        }
+    ]
+}

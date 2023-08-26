@@ -1,0 +1,55 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\amr\\latest Tayayab 1\\tatayab-androidd\\app\\build\\intermediates\\incremental\\mergeDevelopmentDebugResources\\merged.dir\\values-v28\\values-v28.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\amrra\\.gradle\\caches\\transforms-3\\6628cef311756809e5fd54c95756bce5\\transformed\\appcompat-1.5.1\\res\\values-v28\\values-v28.xml",
+                    "from": {
+                        "startLines": "2,3,4,8",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,397",
+                        "endLines": "2,3,7,11",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,392,584"
+                    },
+                    "to": {
+                        "startLines": "11,12,13,17",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "816,891,978,1158",
+                        "endLines": "11,12,16,20",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "886,973,1153,1345"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\amrra\\.gradle\\caches\\transforms-3\\8ca4fd1cee3464fb98aae94777b5da81\\transformed\\jetified-belvedere-2.3.0\\res\\values-v28\\values-v28.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "60",
+                        "endOffsets": "111"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\amrra\\.gradle\\caches\\transforms-3\\43eb5b8254b363da21d455a95559ca5e\\transformed\\material-1.4.0-beta01\\res\\values-v28\\values-v28.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,143,231,319,407,494,581,668",
+                        "endColumns": "87,87,87,87,86,86,86,86",
+                        "endOffsets": "138,226,314,402,489,576,663,750"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "116,204,292,380,468,555,642,729",
+                        "endColumns": "87,87,87,87,86,86,86,86",
+                        "endOffsets": "199,287,375,463,550,637,724,811"
+                    }
+                }
+            ]
+        }
+    ]
+}

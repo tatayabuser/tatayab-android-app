@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\amr\\latest Tayayab 1\\tatayab-androidd\\app\\build\\intermediates\\incremental\\mergeDevelopmentDebugResources\\merged.dir\\values-en-rSS\\values-en-rSS.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\amrra\\.gradle\\caches\\transforms-3\\b04bd873f7dfe6f9b6644ece5b61f0e2\\transformed\\jetified-twitter-core-3.1.1\\res\\values-en-rSS\\values-en-rSS.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "75",
+                        "endOffsets": "126"
+                    }
+                }
+            ]
+        }
+    ]
+}
